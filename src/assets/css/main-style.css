@@ -1,0 +1,8 @@
+body {
+    background-color: #fbfbfb;
+  }
+  ul.rating{float: left; width: 100%; list-style: none;}
+  ul.rating li{ float: left; font-size: 20px; padding: 5px; }
+  .defalutstar{ color: rgb(0, 0, 0);}
+  .redstar{ color: rgb(255, 102, 0);}
+  
